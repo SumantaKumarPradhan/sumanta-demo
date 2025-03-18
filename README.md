@@ -8,3 +8,5 @@ Price :- 3000
 City :- BBSR
 <br>
 State :- Odisha
+<br>
+Pin :- 752014
